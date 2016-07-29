@@ -1,0 +1,19 @@
+{
+  "name": "vanilla-helper",
+  "version": "1.0.0",
+  "description": "Assorted helper functions for vanilla js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/absolute-media/vanilla-helper.git"
+  },
+  "author": "Andy Chubb",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/absolute-media/vanilla-helper/issues"
+  },
+  "homepage": "https://github.com/absolute-media/vanilla-helper#readme"
+}
